@@ -52,6 +52,7 @@
     <Compile Include="Layers\TileLayer.cs" />
     <Compile Include="MapSchema.cs" />
     <Compile Include="MapSchemaProperty.cs" />
+    <Compile Include="MapSchemaTile.cs" />
     <Compile Include="MapSchemaTileSet.cs" />
     <Compile Include="Objects\MapSchemaObject.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
